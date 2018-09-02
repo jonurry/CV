@@ -2,11 +2,13 @@
 
 [Portfolio](http://jon.urry.me) | [GitHub](https://github.com/jonurry) | [CodeWars](https://www.codewars.com/users/jonurry) | [LinkedIn](https://linkedin.com/in/jonurry) | [Twitter](https://twitter.com/jonurry)
 
-[Projects](#projects) | [Skills](#skills) | [Recommendations](#recommendations) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A customer-focused, technically proficient, Software Developer with 21+ years of commercial software development experience. Leads by example. Employs exceptional analytical and problem-solving skills to deliver competitive advantage.
 
-**Tech Skills** :
+Currently, I am completely refreshing my technological skillset and focusing on becoming a Full Stack Open Source Web Developer.
+
+Designed and implemented software used by: BP, ExxonMobil, General Motors, Ford, Hyundai, Kia, Peugeot, Citroën, Chrysler, LG Electronics, Jaguar, Land Rover, Bentley, Aston Martin, US Air Force and multiple commercial airlines including Lufthansa, Cathay Pacific, Air China and Alitalia.
 
 ## Projects
 
@@ -14,7 +16,7 @@ For a complete list, see my [GitHub](https://github.com/jonurry?tab=repositories
 
 | Project                                                                        | Description                                                                                                                                                                                                 | Technologies                                                                                                                                                              |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [IOTA](http://dynamic.nextgen-technology.net/iota)                             | Designed web app and implemented database for Bluetooth interoperability testing that helped attract new customers more than doubling annual revenue to £2 million.                                         | ・・・・・・・・・・                                                                                                                                                      |
+| [IOTA](http://dynamic.nextgen-technology.net/iota)                             | Designed web application and implemented database for Bluetooth interoperability testing that helped attract new customers more than doubling annual revenue to £2 million.                                 | SQL Server・_ASP.Net MVC_・SSIS・_SSRS_・C#                                                                                                                               |
 | [React Minesweeper](https://jonurry.github.io/react-minesweeper/)              | React implementation of the classic Minesweeper game. [GitHub](https://github.com/jonurry/react-minesweeper)                                                                                                | React・_JS_・ES6/7・_Modules_・Mobile First・_Responsive_・Material Design・_Jest_・TDD・_Grid_・CSS3・_SVG_・Icons                                                       |
 | [Black Box](http://blackbox.urry.me/)                                          | Black Box is an abstract board game for one or two players, which simulates shooting rays into a black box to deduce the locations of "atoms" hidden inside. [GitHub](https://github.com/jonurry/black-box) | JS・_ES6_・Responsive・_Grid_・Flex・_Jest_・MVC・_SVG_・SASS                                                                                                             |
 | [Velo Studio](https://velo.studio/)                                            | Velo Studio is an online e-commerce store selling cycling inspired t-shirts with panache! I designed all of the t-shirts and created the website.                                                           | WordPress・_WooCommerce_・Storefront・_On Demand Fulfilment_・Drip・eMail・Marketing・_Stripe_・Payments・_SEO_・Facebook Shopping・_Social Media_・Facebook Ads・_IFTTT_ |
@@ -26,46 +28,59 @@ For a complete list, see my [GitHub](https://github.com/jonurry?tab=repositories
 
 ## Skills
 
-### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-### Additional skills
-
-- Methodologies : Agile, XP, Test Driven Development
-
-## Recommendations
+### Problem Solving
 
 > He’s a natural problem solver and is able to take on and successfully deliver some of the most challenging engagements out there… I can’t recommend Jon enough.
+>
+> _Jason Spencer Director, Financial Advisory, Deloitte_
 
-_Jason Spencer Director, Financial Advisory, Deloitte_
+- Excellent ability to analyse requirements, identify problems and solve them with elegant software.
+
+- Solved challenging and complex business problems. E.g. Interoperability of software versions. Others had abandoned this problem in the past only for me to succeed.
+
+### Leadership
+
+> Jon proved to be incredibly helpful and knowledgeable. He always had an efficient strategy lined up to make our work go smoothly and was excellent in communicating his ideas to the rest of the team. I learned from him just by watching the way he approached a problem.
+>
+> Hitesh Mistry Senior Software Development Manager, Bentley Systems
+
+> He introduced the concept of agile development in our company and guided us with methodologies to follow. Not only he is always willing to share his knowledge, but he is also eager to learn new things and welcomes new ideas/views in very positive ways. As a senior he brings the best out of his juniors in most considerate manner. I am thankful to him for helping me grow as a professional, and truly admire him as a mentor.
+>
+> Prashant Sharma Technical Architect, Ulysses Systems
+
+- I have the communication and emotional intelligence skills, founded with self-awareness and empathy, required to help others grow.
+
+- Recognise that identifying the real issue behind the symptom ,  whether technical, business or people-related ,  is often the most important step towards a successful outcome.
+
+- Successfully led and managed a distributed team of software engineers in London, Mumbai and Chandigarh, delivering features on schedule and at a significantly reduced cost.
+
+### Delivering Business Value
+
+> Jon can define and create business technology solutions that will deliver a competitive advantage.
+>
+> _Andor Miles-Board Marketing & Business Development Manager, NextGen Technology_
+
+- Designed and implemented dozens of SQL Server reports to delivering business-critical information on-demand saving many hours of work every week across the company.
+
+- Designed and implemented an audit solution that enabled process inefficiencies to be highlighted and provided real metrics for accurate customer quotes.
+
+- Realised fully automated build tool. Significantly reduced labour costs (converting a 2-day manual task to a 1-hour automated task) and improved quality by reducing human error.
+
+### Creating Elegant Software
 
 > He has exceptional analytical skills and could always be trusted to find elegant and creative solutions when presented with complex technical problems.
+>
+> _Stuart May Director, Product Management, Expedia.com_
 
-_Stuart May Director, Product Management, Expedia.com_
+> Jon is an outstanding software developer who led the development of the most important product in our portfolio and this product is still striving 12 years later. A robust very rich product that is still ahead of its time.
+>
+> _Dimitris Lyras Managing Director, Ulysses Systems_
 
-> Jon is an outstanding software developer who led the development of the most important product in our portfolio..
+- Led a team of software engineers who envisioned, designed and implemented a multi-user document management system from scratch.
 
-_Dimitris Lyras Managing Director, Ulysses Systems_
+- Designed and developed a UI framework. Reusable solution saved many weeks of development work and gave the product a consistent look and operation.
 
-> Jon can define and create business technology solutions that will deliver competitive advantage.
-
-_Andor Miles-Board Marketing & Business Development Manager, NextGen Technology_
-
-_+ 14 more on LinkedIn_
+- Implemented many optimisations to dramatically increase software performance. E.g. improving complex filtering process from 100 minutes to less than 10 seconds.
 
 ## Experience
 
@@ -74,21 +89,22 @@ _+ 14 more on LinkedIn_
 Providing business critical software solutions to a Bluetooth interoperability testing company.
 
 - Responsible for architecting, designing, developing and delivering software solutions to bring commercial savings and competitive advantage to clients.
+
 - Creating XML generator for Ford Motor Company to power their global customer-facing websites.
 
 ### Product Manager, Ulysses Systems (2006 - 2009)
 
-Ulysses Systems is an award-winning provider of enterprise business intelligence software to the marine industry. Customers included: BP, ExxonMobil, Bourbon, Exmar and V.Ships.
-
-- Responsible for ‘Core Technologies’ platform. Split 70% design/coding and 30% management.
-- Promoted agile methodologies and helped define new and improved processes.
-  Team Leader, Ulysses Systems (2000 - 2006)
-- Led a team of software engineers who envisioned, designed and implemented a multi-user document management system from scratch.
-- Designed and developed a UI framework. Reusable solution saved many weeks of development work and gave the product a consistent look and operation.
+### Team Leader, Ulysses Systems (2000 - 2006)
 
 ### Senior Software Engineer, Ulysses Systems (1999 - 2000)
 
-Improving legacy software for the marine industry.
+Ulysses Systems is an award-winning provider of enterprise business intelligence software to the marine industry. Customers included: BP, ExxonMobil, Bourbon, Exmar and V.Ships.
+
+- Responsible for ‘Core Technologies’ platform. Split 70% design/coding and 30% management.
+
+- Promoted agile methodologies and helped define new and improved processes.
+
+- Improving legacy software for the marine industry.
 
 ### Software Engineer, Integrated Sales Systems (1999)
 
@@ -98,7 +114,7 @@ CRM software for the healthcare, pharmaceutical and insurance sectors. Company a
 
 Implementing computer-based training (CBT) software for commercial and military aerospace organisations.
 
-- Designed, implemented and tested CBT applications, incl. $250k flight simulator for US Air Force.
+- Designed, implemented and tested CBT applications, including $250k flight simulator for US Air Force.
 
 ## Education
 
@@ -128,7 +144,9 @@ A 16-week intensive development bootcamp, focusing on :
 ## Interests
 
 - **[Cycling](https://www.strava.com/athletes/2527674)** - I love cycling, especially on quiet hilly roads, gravel, dirt and byways.
+
 - **[Music](https://open.spotify.com/user/chimpster?si=mgsTLlMARuSKiFY9GQjiBA)** - My taste in music is rather eclectic, ranging from indie pop to afrobeat (amongst many other music genres).
+
 - **Coffee and Beer** - I'm a home barista and occasionally enjoy a tasty dark beer.
 
 You will mostly find me in the kitchen at parties.
