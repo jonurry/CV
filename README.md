@@ -147,6 +147,8 @@ A 16-week intensive development bootcamp, focusing on :
 
 - **[Music](https://open.spotify.com/user/chimpster?si=mgsTLlMARuSKiFY9GQjiBA)** - My taste in music is rather eclectic, ranging from indie pop to afrobeat (amongst many other music genres).
 
-- **Coffee and Beer** - I'm a home barista and occasionally enjoy a tasty dark beer.
+- **[Velo Studio](https://velo.studio)** - Owner and creator of Velo Studio, an online store producing cycling inspired t-shirt designs with panache!
+
+- **Coffee and Beer** - I'm a home barista and enjoy a tasty dark beer.
 
 You will mostly find me in the kitchen at parties.
