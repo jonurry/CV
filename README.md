@@ -151,4 +151,6 @@ A 16-week intensive development bootcamp, focusing on :
 
 - **Coffee and Beer** - I'm a home barista and enjoy a tasty dark beer.
 
+- **Travel** - I have visited 35 countries around the world and spent over a year travelling.
+
 You will mostly find me in the kitchen at parties.
