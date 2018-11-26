@@ -17,6 +17,7 @@ For a complete list, see my [GitHub](https://github.com/jonurry?tab=repositories
 | Project                                                                        | Description                                                                                                                                                                                                 | Technologies                                                                                                                                                              |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [IOTA](http://dynamic.nextgen-technology.net/iota)                             | Designed web application and implemented database for Bluetooth interoperability testing that helped attract new customers more than doubling annual revenue to £2 million.                                 | SQL Server・_ASP.Net MVC_・SSIS・_SSRS_・C#                                                                                                                               |
+| [RadioRoom](https://makersradioroom.herokuapp.com)                             | Maker's Academy Final Project (team of 4). Radioroom is a music media web application that allows users to listen, share, sync and discuss music in a collaborative space.                                  | React・_Node_・Express・_WebSockets_・Bootstrap・_Jest_・Enzyme・_Cypress_・Spotify API・_Travis_・Heroku                                                                 |
 | [React Minesweeper](https://jonurry.github.io/react-minesweeper/)              | React implementation of the classic Minesweeper game. [GitHub](https://github.com/jonurry/react-minesweeper)                                                                                                | React・_JS_・ES6/7・_Modules_・Mobile First・_Responsive_・Material Design・_Jest_・TDD・_Grid_・CSS3・_SVG_・Icons                                                       |
 | [Black Box](http://blackbox.urry.me/)                                          | Black Box is an abstract board game for one or two players, which simulates shooting rays into a black box to deduce the locations of "atoms" hidden inside. [GitHub](https://github.com/jonurry/black-box) | JS・_ES6_・Responsive・_Grid_・Flex・_Jest_・MVC・_SVG_・SASS                                                                                                             |
 | [Velo Studio](https://velo.studio/)                                            | Velo Studio is an online e-commerce store selling cycling inspired t-shirts with panache! I designed all of the t-shirts and created the website.                                                           | WordPress・_WooCommerce_・Storefront・_On Demand Fulfilment_・Drip・eMail・Marketing・_Stripe_・Payments・_SEO_・Facebook Shopping・_Social Media_・Facebook Ads・_IFTTT_ |
@@ -114,19 +115,21 @@ CRM software for the healthcare, pharmaceutical and insurance sectors. Company a
 
 Implementing computer-based training (CBT) software for commercial and military aerospace organisations.
 
-- Designed, implemented and tested CBT applications, including $250k flight simulator for US Air Force.
+- Designed, implemented and tested CBT applications, including \$250k flight simulator for US Air Force.
 
 ## Education
 
-### Makers Academy (Aug '18 - Nov '18)
+### Makers Academy (Aug 2018 - Nov 2018)
 
-A 16-week intensive development bootcamp, focusing on :
+A 16-week intensive development bootcamp, focusing on:
 
 - Agile methodologies
 - Object-oriented design
 - Test driven development and behaviour driven development
 - Pair programming
 - XP values
+
+I am currently helping out as an Assistant Coach
 
 ### University of Huddersfield (1995 - 1996)
 
@@ -140,6 +143,7 @@ A 16-week intensive development bootcamp, focusing on :
 
 - Bachelor of Science, Physics
 - Associate of the Royal College of Science
+- Captain of the Cycling Club
 
 ## Interests
 
