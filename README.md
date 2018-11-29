@@ -93,11 +93,7 @@ Providing business critical software solutions to a Bluetooth interoperability t
 
 - Creating XML generator for Ford Motor Company to power their global customer-facing websites.
 
-### Product Manager, Ulysses Systems (2006 - 2009)
-
-### Team Leader, Ulysses Systems (2000 - 2006)
-
-### Senior Software Engineer, Ulysses Systems (1999 - 2000)
+### Product Manager, Team Leader and Senior Software Engineer, Ulysses Systems (1999 - 2009)
 
 Ulysses Systems is an award-winning provider of enterprise business intelligence software to the marine industry. Customers included: BP, ExxonMobil, Bourbon, Exmar and V.Ships.
 
@@ -129,11 +125,11 @@ A 16-week intensive development bootcamp, focusing on:
 - Pair programming
 - XP values
 
-I am currently helping out as an Assistant Coach
+I am currently helping out as an Assistant Coach by providing code reviews, pairing sessions and unblocking students that are stuck with technical problems.
 
 ### University of Huddersfield (1995 - 1996)
 
-- Master of Science (Scientific Computing)
+- Master of Science, Scientific Computing
 
 ### University of Hull (1993 - 1994)
 
