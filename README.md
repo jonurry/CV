@@ -119,11 +119,11 @@ Implementing computer-based training (CBT) software for commercial and military 
 
 A 16-week intensive development bootcamp, focusing on:
 
-- Agile methodologies
-- Object-oriented design
 - Test driven development and behaviour driven development
 - Pair programming
 - XP values
+- Agile methodologies
+- Object-oriented design
 
 I am currently helping out as an Assistant Coach by providing code reviews, pairing sessions and unblocking students that are stuck with technical problems.
 
