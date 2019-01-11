@@ -4,7 +4,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-A customer-focused, technically proficient, Software Developer with 21+ years of commercial software development experience. Leads by example. Employs exceptional analytical and problem-solving skills to deliver competitive advantage.
+A customer-focused, technically proficient, pragmatic Software Developer with 21+ years of commercial software development experience. Leads by example. Employs exceptional analytical and problem-solving skills to deliver competitive advantage.
 
 Currently, I am completely refreshing my technological skillset and focusing on becoming a Full Stack Open Source Web Developer.
 
