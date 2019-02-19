@@ -6,7 +6,7 @@
 
 A customer-focused, technically proficient, pragmatic Software Developer with 21+ years of commercial software development experience. Leads by example. Employs exceptional analytical and problem-solving skills to deliver competitive advantage.
 
-Currently, I am completely refreshing my technological skillset and focusing on becoming a Full Stack Open Source Web Developer.
+Currently, I am completely refreshing my technological skill set and focusing on becoming a Full Stack Web Developer.
 
 Designed and implemented software used by: BP, ExxonMobil, General Motors, Ford, Hyundai, Kia, Peugeot, Citroën, Chrysler, LG Electronics, Jaguar, Land Rover, Bentley, Aston Martin, US Air Force and multiple commercial airlines including Lufthansa, Cathay Pacific, Air China and Alitalia.
 
