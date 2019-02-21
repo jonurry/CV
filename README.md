@@ -70,7 +70,7 @@ For a complete list, see my [GitHub Repositories](https://github.com/jonurry?tab
 
 - Realized fully automated build tool. Significantly reduced labour costs (converting a 2-day manual task to a 1-hour automated task) and improved quality by reducing human error.
 
-### Creating Elegant Software
+### Crafting Elegant Software
 
 > He has exceptional analytical skills and could always be trusted to find elegant and creative solutions when presented with complex technical problems.
 >
