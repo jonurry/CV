@@ -64,7 +64,7 @@ For a complete list, see my [GitHub Repositories](https://github.com/jonurry?tab
 >
 > _Andor Miles-Board Marketing & Business Development Manager, NextGen Technology_
 
-- Designed and implemented dozens of SQL Server reports to delivering business-critical information on-demand saving many hours of work every week across the company.
+- Designed and implemented dozens of SQL Server reports delivering business-critical information on-demand saving many hours of work every week across the company.
 
 - Designed and implemented an audit solution that enabled process inefficiencies to be highlighted and provided real metrics for accurate customer quotes.
 
@@ -92,11 +92,11 @@ For a complete list, see my [GitHub Repositories](https://github.com/jonurry?tab
 
 Providing business critical software solutions to a Bluetooth interoperability testing company.
 
-- Responsible for architecture, design, development and delivery of software solutions to bring commercial savings and competitive advantage to clients.
+- Responsible for architecting, designing, developing and delivering software solutions to bring commercial savings and competitive advantage to clients.
 
-- Creating XML generator for Ford Motor Company to power their global customer-facing websites.
+- Designed web application and implemented a database for Bluetooth interoperability testing that helped attract new customers, more than doubling annual revenue to £2 million.
 
-- Designed and implemented dozens of SQL Server reports to delivering business-critical information on-demand saving many hours of work every week across the company.
+- Creating an XML generator for Ford Motor Company to power their global customer-facing Bluetooth interoperability websites.
 
 - Music organiser/transcoder for Bentley Motors
 
