@@ -8,7 +8,7 @@ A customer-focused, technically proficient, pragmatic Software Developer with 21
 
 Driven by a passion for crafting quality code solutions, learning new web technologies, sharing knowledge, challenging myself and improving every day.
 
-I am completely refreshing my skill set and focusing on becoming a Full Stack Web Developer.
+I am completely refreshing and modernising my technical skill set. Having worked too long with 'old' tech I am determined to never let my skills get stale again. I'm looking for a junior role where I can consolidate my new knowledge and grow rapidly, adding value wherever possible.
 
 Designed and implemented software used by: BP, ExxonMobil, General Motors, Ford, Hyundai, Kia, Peugeot, Citroën, Chrysler, LG Electronics, Jaguar, Land Rover, Bentley, Aston Martin, US Air Force and multiple commercial airlines including Lufthansa, Cathay Pacific, Air China and Alitalia.
 
@@ -92,7 +92,7 @@ For a complete list, see my [GitHub Repositories](https://github.com/jonurry?tab
 
 Providing business critical software solutions to a Bluetooth interoperability testing company.
 
-- Responsible for architecting, designing, developing and delivering software solutions to bring commercial savings and competitive advantage to clients.
+- Responsible for architecture, design, development and delivery of software solutions to bring commercial savings and competitive advantages to clients.
 
 - Designed web application and implemented a database for Bluetooth interoperability testing that helped attract new customers, more than doubling annual revenue to £2 million.
 
@@ -170,4 +170,4 @@ After the course, I helped out as an Assistant Coach by providing code reviews, 
 
 - **Travel** - I have visited 35 countries around the world and spent over a year travelling.
 
-You will mostly find me in the kitchen at parties.
+You'll always find me in the kitchen at parties.
