@@ -10,7 +10,7 @@ Driven by a passion for crafting quality code solutions, learning new web techno
 
 I am completely refreshing and modernising my technical skill set. Having worked too long with 'old' tech I am determined to never let my skills get stale again. I'm looking for a junior role where I can consolidate my new knowledge and grow rapidly, adding value wherever possible.
 
-Designed and implemented software used by: BP, ExxonMobil, General Motors, Ford, Hyundai, Kia, Peugeot, Citroën, Chrysler, LG Electronics, Jaguar, Land Rover, Bentley, Aston Martin, US Air Force and multiple commercial airlines including Lufthansa, Cathay Pacific, Air China and Alitalia.
+Designed and implemented software used by `BP` ・ `ExxonMobil` ・ `General Motors` ・ `Ford` ・ `Hyundai` ・ `Kia` ・ `Peugeot` ・ `Citroën` ・ `Chrysler` ・ `LG Electronics` ・ `Jaguar` ・ `Land Rover` ・ `Bentley` ・ `Aston Martin` ・ `US Air Force` ・ `Lufthansa` ・ `Cathay Pacific` ・ `Air China` ・ `Alitalia`
 
 ## Projects
 
