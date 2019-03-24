@@ -89,6 +89,18 @@ For a complete list, see my [GitHub Repositories](https://github.com/jonurry?tab
 
 ## Experience
 
+### Makers Academy (Aug 2018 - Nov 2018)
+
+A 16-week intensive web development boot camp, focusing on:
+
+- Test driven development and behaviour driven development
+- Pair programming
+- XP values
+- Agile methodologies
+- Object-oriented design
+
+After the course, I helped out as an Assistant Coach by providing code reviews, pairing sessions and unblocking students that are stuck with technical problems.
+
 ### Consultant Software Engineer, NextGen Technology Limited (2009 - 2018)
 
 Providing business critical software solutions to a Bluetooth interoperability testing company.
@@ -132,18 +144,6 @@ Implementing computer-based training (CBT) software for commercial and military 
 `C` ・ `DOS` ・ `Windows` ・ `Toolbook` ・ `Quest`
 
 ## Education
-
-### Makers Academy (Aug 2018 - Nov 2018)
-
-A 16-week intensive web development boot camp, focusing on:
-
-- Test driven development and behaviour driven development
-- Pair programming
-- XP values
-- Agile methodologies
-- Object-oriented design
-
-After the course, I helped out as an Assistant Coach by providing code reviews, pairing sessions and unblocking students that are stuck with technical problems.
 
 ### University of Huddersfield (1995 - 1996)
 
