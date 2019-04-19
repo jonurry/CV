@@ -75,7 +75,7 @@ For a complete list, see my [GitHub Repositories](https://github.com/jonurry?tab
 
 > He has exceptional analytical skills and could always be trusted to find elegant and creative solutions when presented with complex technical problems.
 >
-> _Stuart May Director, Product Management, Expedia.com_
+> _Stuart May Product Manager, Google.com_
 
 > Jon is an outstanding software developer who led the development of the most important product in our portfolio and this product is still striving 12 years later. A robust very rich product that is still ahead of its time.
 >
