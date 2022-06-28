@@ -72,7 +72,7 @@ Designed and implemented software used by `CircleCI` ・ `Copper` ・ `DigitalOc
 
 ## Experience
 
-### [Tray.io ](https://tray.io) (Apr 2019 - Jul 2022)
+### Software Engineer, [Tray.io ](https://tray.io) (Apr 2019 - Jul 2022)
 
 Extending the Tray.io integration platform through the implementation of API “Connectors”. Connectors are the key component to the Tray.io system and allow data to be sent in and out of the Tray.io platform.
 
