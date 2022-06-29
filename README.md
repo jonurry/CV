@@ -84,15 +84,11 @@ The Tray.io platform is used my many companies including CircleCI, Copper, Digit
 
 ### [Makers Academy](https://makers.tech/) (Aug 2018 - Nov 2018)
 
-A 16-week intensive web development boot camp, focusing on:
+A 16-week intensive web development boot camp.
 
-- Test driven development and behaviour driven development
-- Pair programming
-- XP values
-- Agile methodologies
-- Object-oriented design
+After the course, I helped out as an Assistant Coach by providing code reviews, pairing sessions and unblocking students that were stuck with technical problems.
 
-After the course, I helped out as an Assistant Coach by providing code reviews, pairing sessions and unblocking students that are stuck with technical problems.
+`JavaScript` ・ `Node.js` ・ `Ruby` ・ `Ruby on Rails` ・ `TDD` ・ `BDD` ・ `Pair Programming` ・ `XP` ・ `Agile` ・ `Object-Oriented Design`
 
 ### Consultant Software Engineer, NextGen Technology Limited (2009 - 2018)
 
