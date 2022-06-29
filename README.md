@@ -78,7 +78,7 @@ Extending the Tray.io integration platform through the implementation of API “
 
 Also designing, implementing and maintaining the Connectors Platform, which currently runs billions of transactions per month.
 
-The Tray.io platform is used my many companies including CircleCI, Copper, DigitalOcean, GitHub, HackerOne, IBM, Intercom, Invision, Iterable, Lyft, Mixpanel, New Relic, Outreach and SAP.
+The Tray.io platform is used by many companies including CircleCI, Copper, DigitalOcean, GitHub, HackerOne, IBM, Intercom, Invision, Iterable, Lyft, Mixpanel, New Relic, Outreach and SAP.
 
 `Node.js` ・ `JavaScript` ・ `TypeScript` ・ `AWS` ・ `Terraform` ・ `TDD` ・ `Jest` ・ `GitHub` ・ `Jira`
 
